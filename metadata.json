@@ -1,0 +1,6 @@
+{
+  "name": "Sukhoi Su-57 Felon - Luxury Defense Store",
+  "description": "Trang thương mại điện tử hạng sang giới thiệu và phân phối tiêm kích tàng hình thế hệ thứ 5 Sukhoi Su-57 Felon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
